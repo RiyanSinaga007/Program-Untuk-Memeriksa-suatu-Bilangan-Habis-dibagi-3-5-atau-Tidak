@@ -1,0 +1,1 @@
+# Program-Untuk-Memeriksa-suatu-Bilangan-Habis-dibagi-3-5-atau-Tidak
